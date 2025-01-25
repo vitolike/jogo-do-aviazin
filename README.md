@@ -6,6 +6,9 @@ Bem-vindo ao **Jogo do Aviazin**! 🎮 Este é um emocionante jogo estilo Aviato
 
 ---
 
+## DEMO URL
+- https://jogodoaviao.games2api.xyz/play?token=d1d324eb4139d746845065e3f5e71675 (as vezes já foi de F).
+
 ## 🛠️ Funcionalidades
 
 - **🎲 Sistema de apostas:** Teste sua sorte e veja até onde consegue ir antes do "crash"! 📈
