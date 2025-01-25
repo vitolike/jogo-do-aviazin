@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Jogo do Aviazin**! 🎮 Este é um emocionante jogo estilo Aviator, onde você desafia a sorte e testa seus reflexos. Criado com 💻 **CodeIgniter 3** e **PHP 7.4**, o jogo utiliza **Canvas** no frontend para uma experiência dinâmica e interativa. 🚀
 
-![Jogo do Aviazin](image.jpg)
+![Jogo do Aviazin](image.JPG)
 
 ---
 
